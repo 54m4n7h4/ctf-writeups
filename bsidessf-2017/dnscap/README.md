@@ -81,4 +81,4 @@ Running it yields a valid PNG:
   
 ![](flag.png?raw=true)
 
-FLAG: FLAG{ExF1ltr4tion_15-s0_Bl4ck}
+
